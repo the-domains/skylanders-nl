@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Skylanders.nl]]></title>
         <description><![CDATA[Skylanders.nl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/skylanders-nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 21:08:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 21:09:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/skylanders-nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GIANTS]]></title>
+            <description><![CDATA[<article><h1>GIANTS</h1><p>Duizenden jaren geleden gingen de Giganten de strijd aan in epische gevechten in Skylands, tot ze naar de aarde werden verbannen Nu een nieuwe dreiging de kop opsteekt, wordt het tijd dat ze hun krachten bundelen met de Skylanders om Kaos te verslaan. Alleen jij kunt ze op de Portal of Power™ zetten om hun krachten te onthullen in de ultieme strijd om Skylands te redden.</p></article>]]></description>
+            <link>https://thegrid.ai/skylanders-nl/a7fa4702-ed3f-4649-b74b-0c5b3134a063/index.html</link>
+            <guid isPermaLink="false">a7fa4702-ed3f-4649-b74b-0c5b3134a063</guid>
+            <pubDate>Tue, 19 Jan 2016 21:09:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SPYRO'S ADVENTURE]]></title>
             <description><![CDATA[<article><h1>SPYRO'S ADVENTURE</h1><p>Het Skylanders-avontuur begint hier! De slechte tiran KAOS wil heel Skylands vernietigen! Alleen jij kunt de Skylanders tot leven wekken en hun bijzondere krachten ontketenen door ze op de Portal of Power™ te plaatsen!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/936ef1bd91cc7ac433b391779a53993c47f8c169.png"></article>]]></description>
-            <link>undefinede5569cee-3651-438a-9c93-6f168815fd2e/index.html</link>
+            <link>https://thegrid.ai/skylanders-nl/e5569cee-3651-438a-9c93-6f168815fd2e/index.html</link>
             <guid isPermaLink="false">e5569cee-3651-438a-9c93-6f168815fd2e</guid>
             <pubDate>Tue, 19 Jan 2016 21:08:57 GMT</pubDate>
         </item>
